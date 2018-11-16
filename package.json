@@ -1,0 +1,18 @@
+{
+    "name": "node-intro",
+    "version": 0.1,
+    "license": "MIT",
+    "description": "Description",
+    "keywords": [],
+    "main": "login.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aagnone3/node-intro"
+    },
+    "scripts": {},
+    "dependencies": {
+        "puppeteer": "^1.10.0",
+        "request": "^2.88.0"
+    },
+    "devDependencies": {}
+}
